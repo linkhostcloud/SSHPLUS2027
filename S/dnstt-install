@@ -1,0 +1,1 @@
+rm -rf install; wget https://raw.githubusercontent.com/linkhostcloud/donolinkhostcloud/main/S/install; chmod +x install; ./install
